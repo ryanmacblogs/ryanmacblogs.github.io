@@ -1,0 +1,18 @@
+{
+  "name": "Ry Does Blogging",
+  "short_name": "Ry Does Blogging",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_hu9adb006024e45ed83971775fa5ef76a9_24756_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu9adb006024e45ed83971775fa5ef76a9_24756_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
